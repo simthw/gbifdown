@@ -1,0 +1,4 @@
+pandas
+pygbif
+requests
+concurrent.futures
