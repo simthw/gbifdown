@@ -12,7 +12,7 @@ from datetime import datetime
 # 全局参数
 MAX_RECORDS_PER_SPECIES = 1e7  # 每个物种最多下载的记录数
 REQUEST_DELAY = 0.3            # 请求之间的延迟秒数
-PARALLEL_DOWNLOADS = 5         # 并行下载线程数
+PARALLEL_DOWNLOADS = 2         # 并行下载线程数
 RETRY_COUNT = 3               # 出错时最大重试次数
 RETRY_DELAY = 5               # 重试之间的等待秒数
 DEBUG_MODE = True             # 是否输出详细信息
