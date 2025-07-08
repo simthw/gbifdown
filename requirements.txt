@@ -1,4 +1,5 @@
 pandas
 pygbif
 requests
-# concurrent.futures
+concurrent.futures
+openpyxl
